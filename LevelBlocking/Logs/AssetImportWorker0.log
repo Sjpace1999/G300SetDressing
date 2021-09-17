@@ -655,3 +655,512 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005122 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.062 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.2 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2756.
+Total: 2.263500 ms (FindLiveObjects: 0.205700 ms CreateObjectMapping: 0.088800 ms MarkObjects: 1.951500 ms  DeleteObjects: 0.016600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005436 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.034 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.2 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2759.
+Total: 2.255700 ms (FindLiveObjects: 0.196800 ms CreateObjectMapping: 0.078400 ms MarkObjects: 1.964400 ms  DeleteObjects: 0.015100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1395.904620 seconds.
+  path: Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_albedo.tif
+  artifactKey: Guid(471eecf4518b1d64e8550d271455c7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_albedo.tif using Guid(471eecf4518b1d64e8550d271455c7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a5c05306227bf6896ccdb022937b86') in 0.034333 seconds 
+  Import took 0.038097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_height.tif
+  artifactKey: Guid(ba9f6f9b7d92c2143b999f78bf20cd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_height.tif using Guid(ba9f6f9b7d92c2143b999f78bf20cd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '794def01005e51d43415703c8b9e6bd2') in 0.009304 seconds 
+  Import took 0.012348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_ao.tif
+  artifactKey: Guid(0cdb16728f1056044ad8f9cc7e411824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_ao.tif using Guid(0cdb16728f1056044ad8f9cc7e411824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce8d081aef0cb1fa21f62a45b262b001') in 0.009858 seconds 
+  Import took 0.013101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_metallic.tif
+  artifactKey: Guid(1311d6441e0927c47847aab5f778efc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_metallic.tif using Guid(1311d6441e0927c47847aab5f778efc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e2b757368e5c9344039d85c2458702') in 0.013407 seconds 
+  Import took 0.017112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_roughness.tif
+  artifactKey: Guid(fb4aa877844e31947987ee4ae4ace63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_roughness.tif using Guid(fb4aa877844e31947987ee4ae4ace63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744faac004709023d137d084854857e3') in 0.010378 seconds 
+  Import took 0.013946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_normal.tif
+  artifactKey: Guid(c922e3116c9a6fc4bae407d289692425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_normal.tif using Guid(c922e3116c9a6fc4bae407d289692425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aef5e404ed7cbbce9970c9dc38c18d5') in 0.012209 seconds 
+  Import took 0.015887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.993817 seconds.
+  path: Assets/Mats/SciFiPanelMat.mat
+  artifactKey: Guid(4980af4d12089b649a2b61e8dac3888a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mats/SciFiPanelMat.mat using Guid(4980af4d12089b649a2b61e8dac3888a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10fcc5903db6b46374792a44ab15a799') in 0.056101 seconds 
+  Import took 0.060048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.014139 seconds.
+  path: Assets/Mats/SciFiFloorMat.mat
+  artifactKey: Guid(0272cec56f9b4f241a67c2ef9184efae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mats/SciFiFloorMat.mat using Guid(0272cec56f9b4f241a67c2ef9184efae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13d4a4732f60eae1f092c9b85ac7215') in 0.012192 seconds 
+  Import took 0.015761 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005794 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.093 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.3 MB.
+System memory in use after: 100.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2763.
+Total: 3.052000 ms (FindLiveObjects: 0.229700 ms CreateObjectMapping: 0.115400 ms MarkObjects: 2.665900 ms  DeleteObjects: 0.039800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 872.088368 seconds.
+  path: Assets/untitled.fbx
+  artifactKey: Guid(26241316ecbe1a242a890f65ef7d0368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/untitled.fbx using Guid(26241316ecbe1a242a890f65ef7d0368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a533b30a36812ba12c262587c211bc3') in 0.078253 seconds 
+  Import took 0.082639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.425743 seconds.
+  path: Assets/Reactor Room.unity
+  artifactKey: Guid(3cbb8c9491cf8f54b8c634842a852f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Reactor Room.unity using Guid(3cbb8c9491cf8f54b8c634842a852f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a503558dbbc125ed6840a1e1077712') in 0.002992 seconds 
+  Import took 0.006604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 617.928436 seconds.
+  path: Assets/Models
+  artifactKey: Guid(363d595681ab8724cab6b89d2519e457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(363d595681ab8724cab6b89d2519e457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86aaf96d4625b88d01535585c33f93c1') in 0.006605 seconds 
+  Import took 0.010745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.160692 seconds.
+  path: Assets/Models/Strip Light.fbx
+  artifactKey: Guid(26241316ecbe1a242a890f65ef7d0368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Strip Light.fbx using Guid(26241316ecbe1a242a890f65ef7d0368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839c478994652c798c9a38ece92b91c1') in 0.021819 seconds 
+  Import took 0.025769 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006579 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.016 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.3 MB.
+System memory in use after: 100.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2767.
+Total: 2.337100 ms (FindLiveObjects: 0.205100 ms CreateObjectMapping: 0.092600 ms MarkObjects: 2.017600 ms  DeleteObjects: 0.021000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005306 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.014 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.2 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2770.
+Total: 2.538000 ms (FindLiveObjects: 0.197000 ms CreateObjectMapping: 0.086200 ms MarkObjects: 2.234800 ms  DeleteObjects: 0.018900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 467.297069 seconds.
+  path: Assets/Models/Strip Light.fbx
+  artifactKey: Guid(26241316ecbe1a242a890f65ef7d0368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Strip Light.fbx using Guid(26241316ecbe1a242a890f65ef7d0368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17c80536c7b59934c222ff03e4f73ba') in 0.071841 seconds 
+  Import took 0.075735 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005942 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.081 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.3 MB.
+System memory in use after: 100.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2774.
+Total: 2.316800 ms (FindLiveObjects: 0.190900 ms CreateObjectMapping: 0.082900 ms MarkObjects: 2.013100 ms  DeleteObjects: 0.028800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006229 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.091 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.3 MB.
+System memory in use after: 100.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2777.
+Total: 2.617900 ms (FindLiveObjects: 0.255300 ms CreateObjectMapping: 0.118000 ms MarkObjects: 2.222600 ms  DeleteObjects: 0.021000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 965.842153 seconds.
+  path: Assets/Textures/Sci-Fi Hard-Surface
+  artifactKey: Guid(a8b39a0cd2551b0469df053be1f72d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Hard-Surface using Guid(a8b39a0cd2551b0469df053be1f72d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a620c9f957d7eed4dd4a6ae384450a') in 0.008618 seconds 
+  Import took 0.012480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.126108 seconds.
+  path: Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_albedo.tif
+  artifactKey: Guid(06f9d4c921a9106439e55df7bb50f4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_albedo.tif using Guid(06f9d4c921a9106439e55df7bb50f4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '791a666fc23c10e35e6e48a793e8cdb5') in 0.035381 seconds 
+  Import took 0.039110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_metallic.tif
+  artifactKey: Guid(9df8f8e1801176a47bbe76fc390ab95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_metallic.tif using Guid(9df8f8e1801176a47bbe76fc390ab95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d42d7486061436997bbbdca279c89d') in 0.015246 seconds 
+  Import took 0.018797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_roughness.tif
+  artifactKey: Guid(677fe08ce70370f438e2570506273086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_roughness.tif using Guid(677fe08ce70370f438e2570506273086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff86b14b6c265562c4d7e38cd7ce92ac') in 0.015725 seconds 
+  Import took 0.019179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_ao.tif
+  artifactKey: Guid(6bff097028fc5c1489edf7d5b4ed5edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_ao.tif using Guid(6bff097028fc5c1489edf7d5b4ed5edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94984acaccab44bafd5086e8003e10a') in 0.011404 seconds 
+  Import took 0.014783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_normal.tif
+  artifactKey: Guid(3d1714f4a7c578d498754f2e656a18ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_normal.tif using Guid(3d1714f4a7c578d498754f2e656a18ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41a83b8be69c5fd8754122fe092645f') in 0.011959 seconds 
+  Import took 0.015452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_height.tif
+  artifactKey: Guid(ea020a51965802b4dad8439903866f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Hard-Surface/TexturesCom_Scifi_Pattern_1K_height.tif using Guid(ea020a51965802b4dad8439903866f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3055372d7dec8e3ff1cf568d8915af28') in 0.014500 seconds 
+  Import took 0.018207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.544820 seconds.
+  path: Assets/Mats/SciFiFloorMat.mat
+  artifactKey: Guid(0272cec56f9b4f241a67c2ef9184efae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mats/SciFiFloorMat.mat using Guid(0272cec56f9b4f241a67c2ef9184efae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b8107ebbd9a9958388d5796d687cccd') in 0.049245 seconds 
+  Import took 0.052886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.238881 seconds.
+  path: Assets/Mats/SciFiHardSurfaceMat.mat
+  artifactKey: Guid(3b160f3145016324b8fd61857a99c827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mats/SciFiHardSurfaceMat.mat using Guid(3b160f3145016324b8fd61857a99c827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a1a9aa57593106351cf751262979086') in 0.012552 seconds 
+  Import took 0.017264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.224278 seconds.
+  path: Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_normal.tif
+  artifactKey: Guid(c922e3116c9a6fc4bae407d289692425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_normal.tif using Guid(c922e3116c9a6fc4bae407d289692425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c6da5b06bdd00cf158199f25fa6365') in 0.010983 seconds 
+  Import took 0.014843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014185 seconds.
+  path: Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_normal.tif
+  artifactKey: Guid(c922e3116c9a6fc4bae407d289692425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sci-Fi Floor/TexturesCom_Scifi_Floor_1K_normal.tif using Guid(c922e3116c9a6fc4bae407d289692425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c6da5b06bdd00cf158199f25fa6365') in 0.010947 seconds 
+  Import took 0.014475 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005411 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.3 MB.
+System memory in use after: 100.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2782.
+Total: 2.885100 ms (FindLiveObjects: 0.219900 ms CreateObjectMapping: 0.122000 ms MarkObjects: 2.523900 ms  DeleteObjects: 0.017900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005825 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.153 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.3 MB.
+System memory in use after: 100.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2785.
+Total: 2.747600 ms (FindLiveObjects: 0.223300 ms CreateObjectMapping: 0.092000 ms MarkObjects: 2.398400 ms  DeleteObjects: 0.032400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 619.926147 seconds.
+  path: Assets/Mats/SciFiHardSurfaceMat.mat
+  artifactKey: Guid(3b160f3145016324b8fd61857a99c827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mats/SciFiHardSurfaceMat.mat using Guid(3b160f3145016324b8fd61857a99c827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e105e2c39db30a7af0298b756f8a60ca') in 0.072185 seconds 
+  Import took 0.075998 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005083 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.105 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.3 MB.
+System memory in use after: 100.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2789.
+Total: 2.223900 ms (FindLiveObjects: 0.235700 ms CreateObjectMapping: 0.103000 ms MarkObjects: 1.868400 ms  DeleteObjects: 0.016000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 523.847246 seconds.
+  path: Assets/Mats/SciFiHardSurfaceMat.mat
+  artifactKey: Guid(3b160f3145016324b8fd61857a99c827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mats/SciFiHardSurfaceMat.mat using Guid(3b160f3145016324b8fd61857a99c827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa233d2ee7203edb756ba1d25710edec') in 0.053832 seconds 
+  Import took 0.057168 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
